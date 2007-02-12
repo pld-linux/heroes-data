@@ -1,5 +1,5 @@
 Summary:	Game like Nibbles but different - datafiles
-Summary(pl):	Gra w stylu Nibbles, ale inna - pliki z danymi
+Summary(pl.UTF-8):   Gra w stylu Nibbles, ale inna - pliki z danymi
 Name:		heroes-data
 Version:	1.5
 Release:	1
@@ -20,13 +20,13 @@ trail. Several modes of play are available, including
 "get-all-the-bonuses", deathmatch, and "squish-the-pedestrians".
 This package containts data files.
 
-%description -l pl
+%description -l pl.UTF-8
 Heroes jest podobny do starych gier "Tron" i "Nibbles", ale zawiera
-wiele graficznych ulepszeñ i nowe w³asno¶ci. W tej grze musisz
-manewrowaæ ma³ym pojazdem i zbieraæ dopalacze, unikaj±c przeszkód i
-¶ladów przeciwników, a nawet swojego w³asnego ¶ladu. S± dostêpne ró¿ne
+wiele graficznych ulepszeÅ„ i nowe wÅ‚asnoÅ›ci. W tej grze musisz
+manewrowaÄ‡ maÅ‚ym pojazdem i zbieraÄ‡ dopalacze, unikajÄ…c przeszkÃ³d i
+Å›ladÃ³w przeciwnikÃ³w, a nawet swojego wÅ‚asnego Å›ladu. SÄ… dostÄ™pne rÃ³Å¼ne
 tryby gry, w tym "zbierz-wszystkie-premie", deathmatch oraz
-"rozjed¼-pieszych".
+"rozjedÅº-pieszych".
 Pakiet zawiera pliki z danymi.
 
 %prep
