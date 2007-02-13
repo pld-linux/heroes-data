@@ -1,5 +1,5 @@
 Summary:	Game like Nibbles but different - datafiles
-Summary(pl.UTF-8):   Gra w stylu Nibbles, ale inna - pliki z danymi
+Summary(pl.UTF-8):	Gra w stylu Nibbles, ale inna - pliki z danymi
 Name:		heroes-data
 Version:	1.5
 Release:	1
